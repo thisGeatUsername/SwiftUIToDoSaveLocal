@@ -13,6 +13,7 @@
 		3F38CF7925B96D710044E320 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 3F38CF7825B96D710044E320 /* Preview Assets.xcassets */; };
 		3F38CF7B25B96D710044E320 /* Persistence.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F38CF7A25B96D710044E320 /* Persistence.swift */; };
 		3F38CF7E25B96D710044E320 /* SwiftUIToDoSaveLocal.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = 3F38CF7C25B96D710044E320 /* SwiftUIToDoSaveLocal.xcdatamodeld */; };
+		3F38CF8725B96E710044E320 /* StartView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 3F38CF8625B96E710044E320 /* StartView.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		3F38CF7A25B96D710044E320 /* Persistence.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Persistence.swift; sourceTree = "<group>"; };
 		3F38CF7D25B96D710044E320 /* SwiftUIToDoSaveLocal.xcdatamodel */ = {isa = PBXFileReference; lastKnownFileType = wrapper.xcdatamodel; path = SwiftUIToDoSaveLocal.xcdatamodel; sourceTree = "<group>"; };
 		3F38CF7F25B96D710044E320 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		3F38CF8625B96E710044E320 /* StartView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = StartView.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 			isa = PBXGroup;
 			children = (
 				3F38CF7125B96D560044E320 /* SwiftUIToDoSaveLocalApp.swift */,
+				3F38CF8625B96E710044E320 /* StartView.swift */,
 				3F38CF7325B96D560044E320 /* ContentView.swift */,
 				3F38CF7525B96D710044E320 /* Assets.xcassets */,
 				3F38CF7A25B96D710044E320 /* Persistence.swift */,
@@ -145,6 +148,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				3F38CF7E25B96D710044E320 /* SwiftUIToDoSaveLocal.xcdatamodeld in Sources */,
+				3F38CF8725B96E710044E320 /* StartView.swift in Sources */,
 				3F38CF7B25B96D710044E320 /* Persistence.swift in Sources */,
 				3F38CF7425B96D560044E320 /* ContentView.swift in Sources */,
 				3F38CF7225B96D560044E320 /* SwiftUIToDoSaveLocalApp.swift in Sources */,
